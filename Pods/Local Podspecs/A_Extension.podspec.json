@@ -1,0 +1,27 @@
+{
+  "name": "A_Extension",
+  "version": "0.1.0",
+  "summary": "A short description of A_Extension.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/houfeixue/A_Extension",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "houfeixue": "hlk"
+  },
+  "source": {
+    "git": "https://github.com/houfeixue/A_Extension.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "A_Extension/Classes/**/*",
+  "dependencies": {
+    "CTMediator": [
+
+    ]
+  }
+}

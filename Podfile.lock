@@ -1,0 +1,48 @@
+PODS:
+  - A (0.1.0):
+    - B_Category
+    - CTMediator
+  - A_Category (0.1.0):
+    - CTMediator
+  - A_Extension (0.1.0):
+    - CTMediator
+  - A_swift (0.1.0)
+  - B_Category (0.1.0):
+    - CTMediator
+  - CTMediator (46)
+
+DEPENDENCIES:
+  - A (from `./LocalPods/A/A.podspec`)
+  - A_Category (from `./LocalPods/A_Category/A_Category.podspec`)
+  - A_Extension (from `./LocalPods/A_Extension/A_Extension.podspec`)
+  - A_swift (from `./LocalPods/A_swift/A_swift.podspec`)
+  - B_Category (from `./LocalPods/B_Category/B_Category.podspec`)
+  - CTMediator
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - CTMediator
+
+EXTERNAL SOURCES:
+  A:
+    :path: "./LocalPods/A/A.podspec"
+  A_Category:
+    :path: "./LocalPods/A_Category/A_Category.podspec"
+  A_Extension:
+    :path: "./LocalPods/A_Extension/A_Extension.podspec"
+  A_swift:
+    :path: "./LocalPods/A_swift/A_swift.podspec"
+  B_Category:
+    :path: "./LocalPods/B_Category/B_Category.podspec"
+
+SPEC CHECKSUMS:
+  A: 0e1d041ea68a8fa960da62e6281cdf34b2c1e07b
+  A_Category: 17e4fde0e58cadf008f7b79025700f8adcd32611
+  A_Extension: 2f6df628195784185fef9507f99c0cea861ec287
+  A_swift: ac316409a12c5243260e2ba8cd4035bb75bb51d2
+  B_Category: b82a319cf1e68e13b74602bade77d597e0f6ae5a
+  CTMediator: f1cf58d509fb3192086c367711f039efd769b907
+
+PODFILE CHECKSUM: b2da235c76f87f50258cf88f28f733a1e54b6ed6
+
+COCOAPODS: 1.10.2

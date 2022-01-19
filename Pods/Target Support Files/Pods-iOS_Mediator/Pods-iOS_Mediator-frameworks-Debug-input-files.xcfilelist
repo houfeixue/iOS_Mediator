@@ -1,0 +1,7 @@
+${PODS_ROOT}/Target Support Files/Pods-iOS_Mediator/Pods-iOS_Mediator-frameworks.sh
+${BUILT_PRODUCTS_DIR}/A/A.framework
+${BUILT_PRODUCTS_DIR}/A_Category/A_Category.framework
+${BUILT_PRODUCTS_DIR}/A_Extension/A_Extension.framework
+${BUILT_PRODUCTS_DIR}/A_swift/A_swift.framework
+${BUILT_PRODUCTS_DIR}/B_Category/B_Category.framework
+${BUILT_PRODUCTS_DIR}/CTMediator/CTMediator.framework
